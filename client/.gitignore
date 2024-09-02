@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Build output
+*.log
+*.lock
+build/
+dist/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Expo and React Native specific files
+*.expo
+*.expo-shared
+*.expo-updates
